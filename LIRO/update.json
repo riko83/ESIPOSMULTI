@@ -1,1 +1,12 @@
 
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/riko83/ESIPOSMULTI/releases/download/v0.1.7/NX Desktop_0.1.7_x64_en-US.msi",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK055OHhCdGxMNkZCVE1Xa0t3WXJmK0tDU1VKbVVtWDlZRzFoT0ZGS0l2U3dsSlJ2cUhGL3JDQ2c2ejFnSlNUaFdjdW9mclhtK0s0allHZzZsUjdhaTFQL2NPMDdsc0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE0NzIzCWZpbGU6TlggRGVza3RvcF8wLjEuN194NjRfZW4tVVMubXNpCnRuRjI2SHFGemVvQVJaMVN1TUNIcDMxeG5RUDl2eUY1aTRJTUlDcldoeHZRQXpGM1N3N2dxUFVzd1MxbmRPcUpqQUxrakNZYW5aQzcwNG05aFV4NkN3PT0K"
+                                         }
+                  },
+    "pub_date":  "2026-05-27T20:45:23Z",
+    "version":  "0.1.7",
+    "notes":  "Perditesim i ri"
+}
