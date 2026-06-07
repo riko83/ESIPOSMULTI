@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/riko83/ESIPOSMULTI/releases/download/v1/NX_Desktop_0.1.18_x64_en-US.msi",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK055OHhCdGxMNkNYT0p2bnlQMGpSSzl6Q0Uvb3A3M2dFbll6QXQxdGhmeU12Z3pzUGFLekVuemFSdmo0N0QvMDR1NnROOW56K1Rvd2w4UDN2UHdhdll3eVhBdU9KelF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODM3NzQyCWZpbGU6TlhfRGVza3RvcF8wLjEuMThfeDY0X2VuLVVTLm1zaQowR3poT0JGWE41QXRDdW52M0Vabkxlc01TbGJWbVBaam1pRFFRS3FYd0gxUDlPVmVtNjFZbVZZRzJXN1IxTStDZ0ZyUGw3QWp4RU5VM25ONC9uQnhEQT09Cg=="
+                                             "url":  "https://github.com/riko83/ESIPOSMULTI/releases/download/v1/NX_Desktop_0.1.19_x64_en-US.msi",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK055OHhCdGxMNk1QRUtwRnI4c1F0dkhPNEtBMkpPaGhjZ1cwUXVjamZEQ3JBRG5Bcis0Sk5seXRpbHN5SmlwK2MyVVVSYi95ckN4SEJndnU4Q2J2Tm9LR1lDOG9hR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODQwNzA3CWZpbGU6TlhfRGVza3RvcF8wLjEuMTlfeDY0X2VuLVVTLm1zaQpKTUJBU1lxOHpndVlpS0xFNFlEZElCTUZsbUM2d1VlQU1tUHQrMGNYaXdEYVVTU3ZIWDJZSlNTWlR5NzVtUkNGbVpBb05OOGhOaXVPenY4NmFOemtBUT09Cg=="
                                          }
                   },
-    "pub_date":  "2026-06-07T13:09:03Z",
-    "version":  "0.1.18",
-    "notes":  "Regullim  i bug keyboard pc double number "
+    "pub_date":  "2026-06-07T13:58:27Z",
+    "version":  "0.1.19",
+    "notes":  "Perditesim i ri"
 }
