@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/riko83/ESIPOSMULTI/releases/download/v1/NX_Desktop_0.1.22_x64_en-US.msi",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK055OHhCdGxMNkJ3NFFmYzROM3d5MFpkZ2VHbUs3Y0RNQTVjbDRBNVd3YlpjM2U3L3VBMmJWWHJiS2krVFFxL2dvT3VYdjFucWYwbTNQRFBHNHdDUjZLRzg2bnhpa2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzc1MTIxCWZpbGU6TlhfRGVza3RvcF8wLjEuMjJfeDY0X2VuLVVTLm1zaQpvVE82QWc2T2NJMDFEMXVCV05Nd2ZwZFpXb1JQMzVlVWtzK0E1dlJGYjNsTDhTamRvN21SQ0ZjU2lzSWs2V2JkTmVwNUFFdHZZRy9wK2cvN3JrcGdEZz09Cg=="
+                                             "url":  "https://github.com/riko83/ESIPOSMULTI/releases/download/v1/NX_Desktop_0.1.24_x64_en-US.msi",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTK055OHhCdGxMNkRybnNPZ0hDclhCQ0FoNmdVMTBZV1NjWmUvSnhSZ2pRTjJQUHJrYm1xS0lHZjlEaFFaTTUrcXNhdk1hYU01TGpDTFRVaDdhUTI4U1RyaTBMdWZvQmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDY2ODk0CWZpbGU6TlhfRGVza3RvcF8wLjEuMjRfeDY0X2VuLVVTLm1zaQpHWGdmRkVtTCt3aEM0bVkxOGN1VTNDeUZyMWVsckpiTE5obDZibnRwTXVidXpKUFdnVk9uNDl6RmEvR3ZyczI3TDZHV2dCanpOTXhYbmhwcVpJcUtBUT09Cg=="
                                          }
                   },
-    "pub_date":  "2026-06-13T18:25:21Z",
-    "version":  "0.1.22",
+    "pub_date":  "2026-06-14T19:54:54Z",
+    "version":  "0.1.24",
     "notes":  "Perditesim i ri"
 }
